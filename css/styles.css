@@ -239,13 +239,10 @@ img {
 }
 
 /*===== MEDIA QUERIES ======*/
-@media(max-width: 700px) {
+@media(max-width: 768px) {
 
 .white_headphone_text_section {
     text-align: center;
-}
-
-
-
+    }   
 
 }
